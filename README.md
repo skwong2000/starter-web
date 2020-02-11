@@ -13,6 +13,11 @@ using a web project.
 
 ## Purpose
 
+As stated above, the main purspose is to provide
+simple.
+
 ## Deployment
 
 Sample website with plenty of files for demos
+
+This is a simple web project.
