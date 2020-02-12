@@ -5,6 +5,8 @@ This repository is for showing how Git and GitHub work
 This is a simple website project for
 showing how to use Git and Github together.
 
+Adding a line fore rebase example.
+
 ## Introduction
 
 This is example to show different parts
